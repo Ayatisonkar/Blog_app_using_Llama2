@@ -1,0 +1,32 @@
+{
+  "arch": "x86_64",
+  "auth": null,
+  "build": "h2eaa2aa_1",
+  "build_number": 1,
+  "channel": "https://repo.continuum.io/pkgs/main/win-64",
+  "depends": [
+    "vs2015_runtime >=14.40.33807"
+  ],
+  "files": [],
+  "fn": "vc-14.40-h2eaa2aa_1.tar.bz2",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\20214\\Anaconda3\\pkgs\\vc-14.40-h2eaa2aa_1",
+    "type": 1
+  },
+  "md5": "f37ef4381071123903074612dad356f4",
+  "name": "vc",
+  "noarch": null,
+  "platform": "win32",
+  "preferred_env": null,
+  "priority": 0,
+  "schannel": "defaults",
+  "size": 9122,
+  "subdir": "win-64",
+  "timestamp": 1726064402583,
+  "track_features": "vc14",
+  "url": "https://repo.continuum.io/pkgs/main/win-64/vc-14.40-h2eaa2aa_1.tar.bz2",
+  "version": "14.40",
+  "with_features_depends": {}
+}
